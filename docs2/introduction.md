@@ -4,7 +4,6 @@
 
 A `README.md` is the front page of any software project. This template provides a professional structure that covers all the essential information.
 
-```markdown
 # 🚀 Awesome Project
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://example.com)
@@ -24,8 +23,3 @@ A brief and engaging description of what your project does. This utility helps u
 ### Prerequisites
 - Node.js (v18 or higher)
 - npm or yarn
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git cl
