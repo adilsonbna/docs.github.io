@@ -1,2 +1,6 @@
-- name: Docs
-  href: docs/
+- name: Project Documentation 1
+  href: docs1/
+  - name: Project Documentation 2
+  href: docs2/
+    - name: Project Documentation 2
+  href: docs3/
