@@ -1,4 +1,4 @@
-site_name: Test
+site_name: Repo Testing
 nav:
   - Home: index.md
   - About: about.md
