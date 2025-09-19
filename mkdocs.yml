@@ -1,4 +1,5 @@
-site_name: AoT Smart Factory Documentation
+site_name: Test
 nav:
   - Home: index.md
   - About: about.md
+theme: readthedocs
